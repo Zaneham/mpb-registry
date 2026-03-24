@@ -1,0 +1,10 @@
+{
+  "name": "cobol-dateutil",
+  "version": "0.1.0",
+  "description": "Date arithmetic for COBOL. Business days, day count conventions, ISO weeks.",
+  "author": "Zane Hambly",
+  "license": "Apache-2.0",
+  "language": "cobol",
+  "repository": "https://github.com/Zaneham/cobol-dateutil",
+  "files": []
+}

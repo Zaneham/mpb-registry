@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "z/OS native BLAS in HLASM with z13+ vector SIMD",
   "author": "Zane Hambly",
+  "license": "Apache-2.0",
   "language": "hlasm",
   "repository": "https://github.com/Zaneham/zblas",
   "files": []

@@ -3,6 +3,14 @@
     "name": "zblas",
     "version": "1.0.0",
     "description": "z/OS native BLAS in HLASM with z13+ vector SIMD",
-    "language": "hlasm"
+    "language": "hlasm",
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "cobol-dateutil",
+    "version": "0.1.0",
+    "description": "Date arithmetic for COBOL. Business days, day count conventions, ISO weeks.",
+    "language": "cobol",
+    "license": "Apache-2.0"
   }
 ]
