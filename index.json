@@ -12,5 +12,12 @@
     "description": "Date arithmetic for COBOL. Business days, day count conventions, ISO weeks.",
     "language": "cobol",
     "license": "Apache-2.0"
+  },
+  {
+    "name": "cobol-ebcdic",
+    "version": "0.1.0",
+    "description": "EBCDIC/ASCII conversion for COBOL. CP037 and CP500. Hex dump utility.",
+    "language": "cobol",
+    "license": "Apache-2.0"
   }
 ]

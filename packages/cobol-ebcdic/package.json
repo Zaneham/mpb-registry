@@ -1,0 +1,10 @@
+{
+  "name": "cobol-ebcdic",
+  "version": "0.1.0",
+  "description": "EBCDIC/ASCII conversion for COBOL. CP037 and CP500. Hex dump utility.",
+  "author": "Zane Hambly",
+  "license": "Apache-2.0",
+  "language": "cobol",
+  "repository": "https://github.com/Zaneham/cobol-ebcdic",
+  "files": []
+}
