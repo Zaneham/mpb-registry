@@ -1,0 +1,10 @@
+{
+  "name": "pdsegen",
+  "version": "1.0.0",
+  "description": "PDSE Version 2 member generation ISPF application.",
+  "author": "Lionel B. Dyck",
+  "license": "GPL-2.0",
+  "language": "rexx",
+  "repository": "https://github.com/lbdyck/pdsegen",
+  "files": []
+}

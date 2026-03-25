@@ -1,0 +1,10 @@
+{
+  "name": "CBTView",
+  "version": "1.0.0",
+  "description": "Quick and easy access to the CBTTape from ISPF. The mainframe freeware library.",
+  "author": "Lionel B. Dyck",
+  "license": "GPL-2.0",
+  "language": "rexx",
+  "repository": "https://github.com/lbdyck/CBTView",
+  "files": []
+}

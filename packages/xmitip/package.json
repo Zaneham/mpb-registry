@@ -1,0 +1,10 @@
+{
+  "name": "xmitip",
+  "version": "1.0.0",
+  "description": "z/OS email client. Send email from TSO.",
+  "author": "Lionel B. Dyck",
+  "license": "GPL-2.0",
+  "language": "rexx",
+  "repository": "https://github.com/lbdyck/xmitip",
+  "files": []
+}

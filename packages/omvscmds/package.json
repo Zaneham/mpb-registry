@@ -1,0 +1,10 @@
+{
+  "name": "omvscmds",
+  "version": "1.0.0",
+  "description": "ISPF dialog to invoke OMVS shell commands and see results in ISPF.",
+  "author": "Lionel B. Dyck",
+  "license": "GPL-2.0",
+  "language": "rexx",
+  "repository": "https://github.com/lbdyck/omvscmds",
+  "files": []
+}

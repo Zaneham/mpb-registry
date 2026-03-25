@@ -1,0 +1,10 @@
+{
+  "name": "racfadm",
+  "version": "1.0.0",
+  "description": "User-friendly RACF administration and reporting ISPF dialog.",
+  "author": "Lionel B. Dyck",
+  "license": "GPL-2.0",
+  "language": "rexx",
+  "repository": "https://github.com/lbdyck/racfadm",
+  "files": []
+}

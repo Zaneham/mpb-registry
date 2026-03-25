@@ -19,5 +19,61 @@
     "description": "EBCDIC/ASCII conversion for COBOL. CP037 and CP500. Hex dump utility.",
     "language": "cobol",
     "license": "Apache-2.0"
+  },
+  {
+    "name": "zigi",
+    "version": "4.0.0",
+    "description": "The git interface for the rest of us. ISPF dialog for z/OS git operations.",
+    "language": "rexx",
+    "license": "GPL-2.0"
+  },
+  {
+    "name": "CBTView",
+    "version": "1.0.0",
+    "description": "Quick and easy access to the CBTTape from ISPF.",
+    "language": "rexx",
+    "license": "GPL-2.0"
+  },
+  {
+    "name": "racfadm",
+    "version": "1.0.0",
+    "description": "User-friendly RACF administration and reporting ISPF dialog.",
+    "language": "rexx",
+    "license": "GPL-2.0"
+  },
+  {
+    "name": "pdsegen",
+    "version": "1.0.0",
+    "description": "PDSE Version 2 member generation ISPF application.",
+    "language": "rexx",
+    "license": "GPL-2.0"
+  },
+  {
+    "name": "xmitip",
+    "version": "1.0.0",
+    "description": "z/OS email client. Send email from TSO.",
+    "language": "rexx",
+    "license": "GPL-2.0"
+  },
+  {
+    "name": "ftpb",
+    "version": "1.0.0",
+    "description": "ISPF dialog to drive FTP, foreground and batch.",
+    "language": "rexx",
+    "license": "GPL-2.0"
+  },
+  {
+    "name": "whoson",
+    "version": "1.0.0",
+    "description": "Display all TSO users by LPAR across the sysplex.",
+    "language": "rexx",
+    "license": "GPL-2.0"
+  },
+  {
+    "name": "omvscmds",
+    "version": "1.0.0",
+    "description": "ISPF dialog to invoke OMVS shell commands and see results in ISPF.",
+    "language": "rexx",
+    "license": "GPL-2.0"
   }
 ]

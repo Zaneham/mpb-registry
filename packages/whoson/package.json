@@ -1,0 +1,10 @@
+{
+  "name": "whoson",
+  "version": "1.0.0",
+  "description": "Display all TSO users by LPAR across the sysplex.",
+  "author": "Lionel B. Dyck",
+  "license": "GPL-2.0",
+  "language": "rexx",
+  "repository": "https://github.com/lbdyck/whoson",
+  "files": []
+}

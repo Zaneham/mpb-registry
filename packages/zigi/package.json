@@ -1,0 +1,10 @@
+{
+  "name": "zigi",
+  "version": "4.0.0",
+  "description": "The git interface for the rest of us. ISPF dialog for z/OS git operations.",
+  "author": "Lionel B. Dyck",
+  "license": "GPL-2.0",
+  "language": "rexx",
+  "repository": "https://github.com/lbdyck/zigi",
+  "files": []
+}

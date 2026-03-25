@@ -1,0 +1,10 @@
+{
+  "name": "ftpb",
+  "version": "1.0.0",
+  "description": "ISPF dialog to drive FTP, foreground and batch.",
+  "author": "Lionel B. Dyck",
+  "license": "GPL-2.0",
+  "language": "rexx",
+  "repository": "https://github.com/lbdyck/ftpb",
+  "files": []
+}
