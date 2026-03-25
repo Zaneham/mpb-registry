@@ -1,0 +1,9 @@
+{
+  "name": "algol-stringlib",
+  "version": "0.1.0",
+  "description": "String handling for Burroughs Extended ALGOL. Trim, find, compare, case conversion, padding.",
+  "author": "Zane Hambly",
+  "license": "Apache-2.0",
+  "language": "algol",
+  "repository": "https://github.com/Zaneham/algol-stringlib"
+}

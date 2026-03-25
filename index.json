@@ -75,5 +75,12 @@
     "description": "ISPF dialog to invoke OMVS shell commands and see results in ISPF.",
     "language": "rexx",
     "license": "GPL-2.0"
+  },
+  {
+    "name": "algol-stringlib",
+    "version": "0.1.0",
+    "description": "String handling for Burroughs Extended ALGOL. Trim, find, compare, case conversion, padding.",
+    "language": "algol",
+    "license": "Apache-2.0"
   }
 ]
