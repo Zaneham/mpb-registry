@@ -38,7 +38,7 @@ Your `package.json` should look like this:
 }
 ```
 
-Supported languages: `cobol`, `hlasm`, `rexx`, `pli`, `jcl`, `fortran`.
+Supported languages: `cobol`, `hlasm`, `rexx`, `pli`, `jcl`, `fortran`, `algol`, `newp`, `wfl`.
 
 If pull requests aren't your thing, open an issue with a link to your repository and we will add it for you.
 
