@@ -20,6 +20,8 @@ This repository is the index. It tells MPB where to find packages. The actual co
 | [whoson](https://github.com/lbdyck/whoson) | 1.0.0 | REXX | GPL-2.0 | Lionel B. Dyck |
 | [omvscmds](https://github.com/lbdyck/omvscmds) | 1.0.0 | REXX | GPL-2.0 | Lionel B. Dyck |
 | [algol-stringlib](https://github.com/Zaneham/algol-stringlib) | 0.1.0 | ALGOL | Apache-2.0 | Zane Hambly |
+| [rpg-dateutil](https://github.com/Zaneham/rpg-dateutil) | 1.1.0 | RPG | Apache-2.0 | Zane Hambly |
+| [cobol-jsonutil](https://github.com/Zaneham/cobol-jsonutil) | 1.0.0 | COBOL | Apache-2.0 | Zane Hambly |
 
 ## Adding a Package
 
@@ -39,7 +41,7 @@ Your `package.json` should look like this:
 }
 ```
 
-Supported languages: `cobol`, `hlasm`, `rexx`, `pli`, `jcl`, `fortran`, `algol`, `newp`, `wfl`.
+Supported languages: `cobol`, `hlasm`, `rexx`, `pli`, `jcl`, `fortran`, `algol`, `newp`, `wfl`, `rpg`.
 
 If pull requests aren't your thing, open an issue with a link to your repository and we will add it for you.
 
