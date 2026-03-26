@@ -82,5 +82,12 @@
     "description": "String handling for Burroughs Extended ALGOL. Trim, find, compare, case conversion, padding.",
     "language": "algol",
     "license": "Apache-2.0"
+  },
+  {
+    "name": "rpg-dateutil",
+    "version": "1.0.0",
+    "description": "Date utility service program for ILE RPG IV. Business days, ISO weeks, day-count conventions, NZ holidays, Easter.",
+    "language": "rpg",
+    "license": "Apache-2.0"
   }
 ]
