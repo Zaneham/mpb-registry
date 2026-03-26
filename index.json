@@ -89,12 +89,5 @@
     "description": "Date utility service program for ILE RPG IV. Business days, ISO weeks, day-count conventions, NZ holidays, Easter.",
     "language": "rpg",
     "license": "Apache-2.0"
-  },
-  {
-    "name": "cobol-jsonutil",
-    "version": "1.0.0",
-    "description": "JSON parser, query engine, and builder for COBOL-85. No V6 required. Dot-path queries with array indexing.",
-    "language": "cobol",
-    "license": "Apache-2.0"
   }
 ]
