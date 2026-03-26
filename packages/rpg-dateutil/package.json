@@ -1,6 +1,6 @@
 {
   "name": "rpg-dateutil",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Date utility service program for ILE RPG IV. Business days, ISO weeks, day-count conventions, NZ holidays, Easter.",
   "author": "Zane Hambly",
   "license": "Apache-2.0",
